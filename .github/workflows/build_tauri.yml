@@ -7,7 +7,7 @@ on:
 
 env:
   APP_NAME: 'App Name'
-  WINDOW_NAME: 'Your Name'
+  WINDOW_NAME: 'Sambel Goreng'
   DIST_DIR: '../dist'
   DEV_PATH: '../dist'
   CONFIG_PATH: './tauri.myconf.json'
