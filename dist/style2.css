@@ -1,0 +1,29 @@
+#judul{
+    font-size: 20px;
+    font-family: Arial;
+}
+#bawah-judul{
+    font-size: 11px;
+    font-family: Arial;
+}
+
+#summary{
+    font-family: Arial;
+    font-size: 14px;
+}
+#isisum{
+    font-family: Arial;
+    font-size: 13px;
+    text-align: justify;
+    
+}
+#headcaps{
+    font-size: 13px;
+    font-family: Arial;
+    font-style: italic;
+}
+#isihead{
+    font-size: 13px;
+    font-family: Arial;
+    justify-content: center;
+}
